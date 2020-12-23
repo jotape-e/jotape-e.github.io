@@ -18,10 +18,6 @@ _still thinking about a description...._
 - GIS applications
   - QGIS
 
-# dev
-- C# (12 years exp)
-- Python (for data science)
-
 # Projects
 
 - [INCT para Mudanças Climáticas](http://www.ccst.inpe.br/projetos/inct/)
