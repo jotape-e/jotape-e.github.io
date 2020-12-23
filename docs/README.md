@@ -1,4 +1,4 @@
-Hi there! :bowtie: :alien:
+:alien: Hi everyone!
 
 # Education
 - Agronomyst ([São Carlos Federal University](https://www.cca.ufscar.br/pt-br), 2010-2014).
