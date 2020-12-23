@@ -9,17 +9,12 @@ _still thinking about a description...._
 
 # Interest topics
 - Agriculture/environment
-
 - Remote sensing
-
 - Climate change
-
 - Data science
-  - Python
-  
+  - Python  
 - Software development
-  - .NET Framework
-  
+  - .NET Framework  
 - GIS applications
   - QGIS
 
