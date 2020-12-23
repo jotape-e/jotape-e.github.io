@@ -19,6 +19,6 @@
 # Projects
 
 ## Publications
-1. SILVA, J. P; ZULLO Jr., J.  ; ROMANI, L. A. S. A TIME SERIES MINING APPROACH FOR AGRICULTURAL AREA DETECTION. *IEEE Transactions on Big Data*, v. 6, p. 537-546, 2019. [Access](http://dx.doi.org/10.1109/TBDATA.2019.2913402)
+1. SILVA, J. P; ZULLO Jr., J.  ; ROMANI, L. A. S. A TIME SERIES MINING APPROACH FOR AGRICULTURAL AREA DETECTION. *IEEE Transactions on Big Data*, v. 6, p. 537-546, 2019. [Access.](http://dx.doi.org/10.1109/TBDATA.2019.2913402)
 
 ## Research projects
