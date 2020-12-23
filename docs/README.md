@@ -15,8 +15,8 @@ _still thinking about a description...._
 - Software development  
 - GIS applications
 
-## Skills & tools
-- Software development: .NET Framework (12 years experience)
+## Skills, tools & experience
+- Software development: .NET Framework (12 years)
 - Data science: Python (few months)
 - GIS: QGIS (6 years)
 
