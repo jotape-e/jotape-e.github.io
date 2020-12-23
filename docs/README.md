@@ -14,7 +14,7 @@
 
 ## dev
 - C# (12 years exp)
-- Python
+- Python (for data science)
 
 
 
