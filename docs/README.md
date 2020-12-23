@@ -10,7 +10,7 @@ _still thinking about a description...._
 # Interest topics
 - Agriculture/environment
 - Remote sensing
-- Climate change
+- Climate change and climate modelling
 - Data science
 - Software development  
 - GIS applications
