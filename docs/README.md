@@ -12,11 +12,13 @@ _still thinking about a description...._
 - Remote sensing
 - Climate change
 - Data science
-  - Python  
-- Software development
-  - .NET Framework  
+- Software development  
 - GIS applications
-  - QGIS
+
+## Skills & tools
+- Software development: .NET Framework (12 years experience)
+- Data science: Python (few months)
+- GIS: QGIS (6 years)
 
 # Projects
 
