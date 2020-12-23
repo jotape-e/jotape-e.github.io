@@ -5,13 +5,14 @@
 - MSc ([Campinas State University](https://www.unicamp.br/unicamp/english) - [Agricutural Engineering dept.](https://www.feagri.unicamp.br/portal/en/), 2015-2017)
 - PhD candidate ([Campinas State University](https://www.unicamp.br/unicamp/english) - [Agricutural Engineering dept.](https://www.feagri.unicamp.br/portal/en/), 2017-)
 
-## Research themes
+## Interests
 - Agriculture/Environment monitoring
 - Remote sensing
 - Climate change
 - Data science.
+- GIS
 
-## Dev
+## dev
 - C# (12 years exp)
 - Python
 
