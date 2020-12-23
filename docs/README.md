@@ -8,8 +8,10 @@
 - Remote sensing
 - Climate change
 - Data science
-- GIS
-  - QGIS
+  - Python
+- Software development
+ - C#
+- GIS applications
 
 # dev
 - C# (12 years exp)
