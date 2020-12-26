@@ -16,7 +16,7 @@ _still thinking about a description...._
 - GIS applications
 
 - Animals all!
-- Drinks: :beers::coffee:
+- Drinks: :beers::coffee::water:
 - Food: :hamburger::pizza::cookie::banana:
 - Sports :soccer::crossfit::gym:
 
