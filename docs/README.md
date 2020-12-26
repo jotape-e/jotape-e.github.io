@@ -22,10 +22,9 @@ _still thinking about a description...._
 
 # Research
 
-## Links
-[ORCID](https://orcid.org/0000-0002-0695-9111)
-
-[Lattes](http://lattes.cnpq.br/5431196146146601)
+## Links/profiles
+- [ORCID](https://orcid.org/0000-0002-0695-9111)
+- [Lattes](http://lattes.cnpq.br/5431196146146601)
 
 ## Projects
 
