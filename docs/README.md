@@ -2,10 +2,10 @@
 
 _still thinking about a description...._
 
-# Education
-- Agronomyst ([São Carlos Federal University](https://www.cca.ufscar.br/pt-br), 2010-2014).
-- MSc ([Campinas State University](https://www.unicamp.br/unicamp/english) - [Agricultural Engineering dept.](https://www.feagri.unicamp.br/portal/en/), 2015-2017)
-- PhD candidate ([Campinas State University](https://www.unicamp.br/unicamp/english) - [Agricultural Engineering dept.](https://www.feagri.unicamp.br/portal/en/), 2017-)
+# Personal, fun
+- Animals all!
+- Sports :soccer::crossfit::gym:
+- News and politics :newspaper:
 
 # Interest topics
 - Agriculture/environment
@@ -15,10 +15,10 @@ _still thinking about a description...._
 - Software development  
 - GIS applications
 
-## Personal, fun
-- Animals all!
-- Sports :soccer::crossfit::gym:
-- News and politics :newspaper:
+# Education
+- Agronomyst ([São Carlos Federal University](https://www.cca.ufscar.br/pt-br), 2010-2014).
+- MSc ([Campinas State University](https://www.unicamp.br/unicamp/english) - [Agricultural Engineering dept.](https://www.feagri.unicamp.br/portal/en/), 2015-2017)
+- PhD candidate ([Campinas State University](https://www.unicamp.br/unicamp/english) - [Agricultural Engineering dept.](https://www.feagri.unicamp.br/portal/en/), 2017-)
 
 ## Skills, tools & experience
 - Software development: .NET Framework (12 years)
