@@ -25,10 +25,17 @@ _still thinking about a description...._
 - Data science: Python (few months)
 - GIS: QGIS (6 years)
 
-# Projects
+# Research
+
+## Links
+[Lattes](http://lattes.cnpq.br/5431196146146601)
+
+[ORCID](https://orcid.org/0000-0002-0695-9111)
+
+## Projects
 
 - [INCT para Mudanças Climáticas](http://www.ccst.inpe.br/projetos/inct/) (2019-2021)
   - Research member (founded by [CNPq](https://www.gov.br/cnpq/pt-br))
 
-# Publications
+## Publications
 1. SILVA, J. P; ZULLO Jr., J.  ; ROMANI, L. A. S. [A TIME SERIES MINING APPROACH FOR AGRICULTURAL AREA DETECTION](http://dx.doi.org/10.1109/TBDATA.2019.2913402). *IEEE Transactions on Big Data*, v. 6, p. 537-546, 2019. [Download](https://raw.githubusercontent.com/jotape-e/jotape-e.github.io/main/publications/08701458.pdf)
