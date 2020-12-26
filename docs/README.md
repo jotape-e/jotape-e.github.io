@@ -1,4 +1,4 @@
-:alien: Hi everyone! :south_america:
+:alien: Hi everyone! :south_americas:
 
 _still thinking about a description...._
 
