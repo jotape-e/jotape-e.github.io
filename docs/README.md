@@ -15,10 +15,12 @@ _still thinking about a description...._
 - Software development  
 - GIS applications
 
+## personal, fun
 - Animals all!
 - Drinks: :beers::coffee::water:
 - Food: :hamburger::pizza::cookie::banana:
 - Sports :soccer::crossfit::gym:
+- Politics
 
 ## Skills, tools & experience
 - Software development: .NET Framework (12 years)
