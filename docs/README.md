@@ -1,4 +1,4 @@
-:alien: Hi everyone! :south_americas:
+:alien: Hi everyone! :earth_americas::br:
 
 _still thinking about a description...._
 
@@ -15,11 +15,11 @@ _still thinking about a description...._
 - Software development  
 - GIS applications
 
-## personal, fun
+## Personal, fun
 - Animals all!
+- Sports :soccer::crossfit::gym:
 - Drinks: :beers::coffee::water:
 - Food: :hamburger::pizza::cookie::banana:
-- Sports :soccer::crossfit::gym:
 - Politics
 
 ## Skills, tools & experience
