@@ -17,7 +17,7 @@ _still thinking about a description...._
 
 - Animals all!
 - Drinks: :beers::coffee:
-- Food: :hamburger::pizza:::cookie::banana:
+- Food: :hamburger::pizza::cookie::banana:
 - Sports :soccer::crossfit::gym:
 
 ## Skills, tools & experience
