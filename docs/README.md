@@ -1,4 +1,4 @@
-:alien: Hi everyone!
+:alien: Hi everyone! :south_america:
 
 _still thinking about a description...._
 
@@ -14,6 +14,11 @@ _still thinking about a description...._
 - Data science
 - Software development  
 - GIS applications
+
+- Animals all!
+- Drinks: :beers::coffee:
+- Food: :hamburger::pizza:::cookie::banana:
+- Sports :soccer::crossfit::gym:
 
 ## Skills, tools & experience
 - Software development: .NET Framework (12 years)
