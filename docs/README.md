@@ -18,9 +18,7 @@ _still thinking about a description...._
 ## Personal, fun
 - Animals all!
 - Sports :soccer::crossfit::gym:
-- Drinks: :beers::coffee::water:
-- Food: :hamburger::pizza::cookie::banana:
-- Politics
+- News and politics :newspaper:
 
 ## Skills, tools & experience
 - Software development: .NET Framework (12 years)
