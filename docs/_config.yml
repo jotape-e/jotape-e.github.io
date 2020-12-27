@@ -4,3 +4,4 @@ description: Agronomyst/researcher/dev
 plugins:
  - jemoji
  - jekyll-sitemap
+ - github-pages-health-check
