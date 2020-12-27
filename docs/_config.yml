@@ -4,6 +4,3 @@ description: Agronomyst/researcher/dev
 whitelist:
  - jemoji
  - jekyll-toc 
-plugins:
- - jemoji
- - jekyll-toc
