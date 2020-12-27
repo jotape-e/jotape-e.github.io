@@ -1,6 +1,9 @@
 theme: jekyll-theme-dinky
 title: João Paulo
 description: Agronomyst/researcher/dev
+whitelist:
+ - jemoji
+ - jekyll-toc 
 plugins:
  - jemoji
  - jekyll-toc
