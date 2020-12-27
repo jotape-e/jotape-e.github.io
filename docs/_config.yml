@@ -1,10 +1,5 @@
----
-teste: True
-t: TÍTULO
----
-
 theme: jekyll-theme-midnight
-title: page.t
+title: João Paulo
 
 description: Agronomyst/researcher/dev
 plugins:
