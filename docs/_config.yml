@@ -3,7 +3,4 @@ title: João Paulo
 description: Agronomyst/researcher/dev
 plugins:
  - jemoji
- - jekyll-toc
- - jekyll-feed
- - jekyll-archives
  - jekyll-sitemap
