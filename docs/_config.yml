@@ -1,9 +1,11 @@
 ---
 teste: True
+t: "TÍTULO"
 ---
 
 theme: jekyll-theme-midnight
-title: João Paulo
+title: {{page.t}}
+
 description: Agronomyst/researcher/dev
 plugins:
  - jemoji
