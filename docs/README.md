@@ -1,4 +1,4 @@
-:alien: Hi everyone! :earth_americas::br:
+:earth_americas::br:
 
 _still thinking about a description...._
 
