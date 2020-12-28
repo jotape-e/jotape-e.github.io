@@ -25,10 +25,12 @@ _still thinking about a description...._
 - [INCT para Mudanças Climáticas](http://www.ccst.inpe.br/projetos/inct/) (2019-2021).
   - Research member (founded by [CNPq](https://www.gov.br/cnpq/pt-br)).
 ## Publications
+
 1. SILVA, J. P; ZULLO Jr., J.  ; ROMANI, L. A. S. [A TIME SERIES MINING APPROACH FOR AGRICULTURAL AREA DETECTION](http://dx.doi.org/10.1109/TBDATA.2019.2913402). *IEEE Transactions on Big Data*, v. 6, p. 537-546, 2019. [Download](https://raw.githubusercontent.com/jotape-e/jotape-e.github.io/main/publications/08701458.pdf).
+
 # Personal, fun
-- Animals: all!
-- Sports: :soccer::crossfit::gym:
-- News and politics :newspaper:
+- Animals: all!.
+- Sports: :soccer::crossfit::gym:.
+- News and politics :newspaper:.
 
 [p2](p2.md)
