@@ -1,4 +1,4 @@
-:earth_americas::br:
+:earth_americas: :octocat:
 
 _still thinking about a description...._
 
@@ -36,7 +36,7 @@ _still thinking about a description...._
 
 # Personal, fun
 - Animals: all!.
-- Sports: :soccer::crossfit::gym:.
+- Sports: soccer, crossfit, gym
 - News and politics :newspaper:.
 
 [p2](p2.md)
